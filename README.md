@@ -1,2 +1,2 @@
 # Gen_Ai_Repo
-We can find all the code of gen ai projects here, out of which some are self made or learned from youtube
+Here, you'll find all the code for generative AI projects, including some that are self-created and others learned from YouTube.
